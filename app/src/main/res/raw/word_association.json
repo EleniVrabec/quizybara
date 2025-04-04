@@ -1,0 +1,436 @@
+{
+  "word_associations": [
+    {
+      "word1": "Paris",
+      "word2": "France"
+    },
+    {
+      "word1": "Berlin",
+      "word2": "Germany"
+    },
+    {
+      "word1": "Rome",
+      "word2": "Italy"
+    },
+    {
+      "word1": "Madrid",
+      "word2": "Spain"
+    },
+    {
+      "word1": "Tokyo",
+      "word2": "Japan"
+    },
+    {
+      "word1": "Moscow",
+      "word2": "Russia"
+    },
+    {
+      "word1": "Cairo",
+      "word2": "Egypt"
+    },
+    {
+      "word1": "London",
+      "word2": "England"
+    },
+    {
+      "word1": "Beijing",
+      "word2": "China"
+    },
+    {
+      "word1": "Ottawa",
+      "word2": "Canada"
+    },
+    {
+      "word1": "Washington",
+      "word2": "USA"
+    },
+    {
+      "word1": "Sydney",
+      "word2": "Australia"
+    },
+    {
+      "word1": "Nile",
+      "word2": "River"
+    },
+    {
+      "word1": "Amazon",
+      "word2": "Rainforest"
+    },
+    {
+      "word1": "Sahara",
+      "word2": "Desert"
+    },
+    {
+      "word1": "Mount Everest",
+      "word2": "Himalayas"
+    },
+    {
+      "word1": "Sun",
+      "word2": "Solar"
+    },
+    {
+      "word1": "Moon",
+      "word2": "Orbit"
+    },
+    {
+      "word1": "Ocean",
+      "word2": "Waves"
+    },
+    {
+      "word1": "Island",
+      "word2": "Beach"
+    },
+    {
+      "word1": "Mountain",
+      "word2": "Peak"
+    },
+    {
+      "word1": "Tesla",
+      "word2": "Electric"
+    },
+    {
+      "word1": "Newton",
+      "word2": "Gravity"
+    },
+    {
+      "word1": "Einstein",
+      "word2": "Relativity"
+    },
+    {
+      "word1": "DNA",
+      "word2": "Genetics"
+    },
+    {
+      "word1": "Oxygen",
+      "word2": "Breathing"
+    },
+    {
+      "word1": "Volcano",
+      "word2": "Eruption"
+    },
+    {
+      "word1": "Earthquake",
+      "word2": "Seismic"
+    },
+    {
+      "word1": "Battery",
+      "word2": "Energy"
+    },
+    {
+      "word1": "Computer",
+      "word2": "Technology"
+    },
+    {
+      "word1": "Internet",
+      "word2": "Connection"
+    },
+    {
+      "word1": "Smartphone",
+      "word2": "Apps"
+    },
+    {
+      "word1": "Google",
+      "word2": "Search"
+    },
+    {
+      "word1": "Facebook",
+      "word2": "Social"
+    },
+    {
+      "word1": "Bitcoin",
+      "word2": "Cryptocurrency"
+    },
+    {
+      "word1": "AI",
+      "word2": "Intelligence"
+    },
+    {
+      "word1": "VR",
+      "word2": "Headset"
+    },
+    {
+      "word1": "Robot",
+      "word2": "Automation"
+    },
+    {
+      "word1": "Mozart",
+      "word2": "Composer"
+    },
+    {
+      "word1": "Beethoven",
+      "word2": "Symphony"
+    },
+    {
+      "word1": "Guitar",
+      "word2": "Strings"
+    },
+    {
+      "word1": "Piano",
+      "word2": "Keys"
+    },
+    {
+      "word1": "Drums",
+      "word2": "Percussion"
+    },
+    {
+      "word1": "Singer",
+      "word2": "Voice"
+    },
+    {
+      "word1": "Football",
+      "word2": "Soccer"
+    },
+    {
+      "word1": "Basketball",
+      "word2": "Hoops"
+    },
+    {
+      "word1": "Tennis",
+      "word2": "Racket"
+    },
+    {
+      "word1": "Swimming",
+      "word2": "Water"
+    },
+    {
+      "word1": "Chess",
+      "word2": "Board"
+    },
+    {
+      "word1": "Running",
+      "word2": "Race"
+    },
+    {
+      "word1": "Dog",
+      "word2": "Bark"
+    },
+    {
+      "word1": "Cat",
+      "word2": "Meow"
+    },
+    {
+      "word1": "Horse",
+      "word2": "Gallop"
+    },
+    {
+      "word1": "Elephant",
+      "word2": "Trunk"
+    },
+    {
+      "word1": "Tiger",
+      "word2": "Stripes"
+    },
+    {
+      "word1": "Shark",
+      "word2": "Ocean"
+    },
+    {
+      "word1": "Dolphin",
+      "word2": "Intelligence"
+    },
+    {
+      "word1": "Eagle",
+      "word2": "Wings"
+    },
+    {
+      "word1": "Butterfly",
+      "word2": "Caterpillar"
+    },
+    {
+      "word1": "Happy",
+      "word2": "Smile"
+    },
+    {
+      "word1": "Sad",
+      "word2": "Tears"
+    },
+    {
+      "word1": "Angry",
+      "word2": "Frown"
+    },
+    {
+      "word1": "Excited",
+      "word2": "Cheer"
+    },
+    {
+      "word1": "Scared",
+      "word2": "Scream"
+    },
+    {
+      "word1": "Love",
+      "word2": "Heart"
+    },
+    {
+      "word1": "Doctor",
+      "word2": "Hospital"
+    },
+    {
+      "word1": "Teacher",
+      "word2": "Classroom"
+    },
+    {
+      "word1": "Firefighter",
+      "word2": "Rescue"
+    },
+    {
+      "word1": "Police",
+      "word2": "Law"
+    },
+    {
+      "word1": "Chef",
+      "word2": "Cooking"
+    },
+    {
+      "word1": "Farmer",
+      "word2": "Agriculture"
+    },
+    {
+      "word1": "Artist",
+      "word2": "Painting"
+    },
+    {
+      "word1": "Author",
+      "word2": "Book"
+    },
+    {
+      "word1": "Photographer",
+      "word2": "Camera"
+    },
+    {
+      "word1": "Zeus",
+      "word2": "Thunder"
+    },
+    {
+      "word1": "Thor",
+      "word2": "Hammer"
+    },
+    {
+      "word1": "Hercules",
+      "word2": "Strength"
+    },
+    {
+      "word1": "Athena",
+      "word2": "Wisdom"
+    },
+    {
+      "word1": "Poseidon",
+      "word2": "Sea"
+    },
+    {
+      "word1": "Hades",
+      "word2": "Underworld"
+    },
+    {
+      "word1": "Magnet",
+      "word2": "Attract"
+    },
+    {
+      "word1": "Clock",
+      "word2": "Time"
+    },
+    {
+      "word1": "Mirror",
+      "word2": "Reflection"
+    },
+    {
+      "word1": "Camera",
+      "word2": "Photography"
+    },
+    {
+      "word1": "Key",
+      "word2": "Lock"
+    },
+    {
+      "word1": "Door",
+      "word2": "Entrance"
+    },
+    {
+      "word1": "Bridge",
+      "word2": "River"
+    },
+    {
+      "word1": "Book",
+      "word2": "Pages"
+    },
+    {
+      "word1": "Letter",
+      "word2": "Envelope"
+    },
+    {
+      "word1": "Candle",
+      "word2": "Wax"
+    },
+    {
+      "word1": "Rainbow",
+      "word2": "Colors"
+    },
+    {
+      "word1": "Snow",
+      "word2": "Winter"
+    },
+    {
+      "word1": "Rain",
+      "word2": "Clouds"
+    },
+    {
+      "word1": "Wind",
+      "word2": "Breeze"
+    },
+    {
+      "word1": "Fire",
+      "word2": "Heat"
+    },
+    {
+      "word1": "Lightning",
+      "word2": "Thunder"
+    },
+    {
+      "word1": "Train",
+      "word2": "Tracks"
+    },
+    {
+      "word1": "Airplane",
+      "word2": "Flight"
+    },
+    {
+      "word1": "Bicycle",
+      "word2": "Pedals"
+    },
+    {
+      "word1": "Car",
+      "word2": "Wheels"
+    },
+    {
+      "word1": "Rocket",
+      "word2": "Launch"
+    },
+    {
+      "word1": "Boat",
+      "word2": "Sail"
+    },
+    {
+      "word1": "Apple",
+      "word2": "Fruit"
+    },
+    {
+      "word1": "Banana",
+      "word2": "Yellow"
+    },
+    {
+      "word1": "Strawberry",
+      "word2": "Berry"
+    },
+    {
+      "word1": "Carrot",
+      "word2": "Vegetable"
+    },
+    {
+      "word1": "Pizza",
+      "word2": "Cheese"
+    },
+    {
+      "word1": "Burger",
+      "word2": "Bun"
+    }
+  ]
+}
