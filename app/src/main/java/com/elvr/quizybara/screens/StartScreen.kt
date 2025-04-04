@@ -327,8 +327,8 @@ fun StartScreen(navController: NavController, quizViewModel: QuizViewModel) {
                             style = MaterialTheme.typography.headlineLarge.copy(
                                 shadow = Shadow(
                                     color = LightText,
-                                    offset = Offset(2f, 2f),
-                                    blurRadius = 6f
+                                    offset = Offset(3f, 3f),
+                                    blurRadius = 2f
                                 )
                             ),
                             color = Pink80,
